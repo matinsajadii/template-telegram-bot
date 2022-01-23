@@ -1,2 +1,2 @@
-Template for Telegram Bot
+# Template for Telegram Bot
 
