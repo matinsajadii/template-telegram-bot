@@ -1,5 +1,8 @@
 # Template for Telegram Bot
-https://chatimize.com/wp-content/uploads/2021/02/telegram-chatbots-thumbnail.jpg
+<img src="https://chatimize.com/wp-content/uploads/2021/02/telegram-chatbots-thumbnail.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" height=250 width=500 />
+<br><br>
 Template to create a telegram bot in python.
 
 ## How to Run
