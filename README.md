@@ -1,5 +1,5 @@
 # Template for Telegram Bot
-
+https://chatimize.com/wp-content/uploads/2021/02/telegram-chatbots-thumbnail.jpg
 Template to create a telegram bot in python.
 
 ## How to Run
